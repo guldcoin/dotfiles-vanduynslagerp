@@ -1,0 +1,7 @@
+[user]
+	username = vanduynslagerp
+	name = Pierre Vanduynslager
+[commit]
+	gpgsign = true
+[aliases]
+	github = vanduynslagerp
